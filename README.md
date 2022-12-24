@@ -15,12 +15,23 @@ cd job_hunter_front_end_react
 
 Runs the app in the development mode.\
 4 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+{
 
 
 
+NOTE : credentials format
+ 
+for users
+usernames:   user1 ,user2 user3, user4
+Emails:      user1@gmail.com user2@gmail.com user3@gmail.com user4@gmail.com
+
+for HRs
+usernames: hr1 hr2 hr3 hr3 hr4
+emails:    hr1@gmail.com hr2@gmial.com hr3@gmail.com hr4@gmail.com
 
 
 
+}
 
 # job-hunter back end
 # Getting Started with Create React App
